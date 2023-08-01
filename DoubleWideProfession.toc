@@ -1,0 +1,10 @@
+## Interface: 30200
+## Title: DoubleWideProfession
+## Notes: Makes the TradeSkillFrame wider.
+## Author: Yuritsuki
+## Version 1.1
+## X-Category: Tradeskill
+## LoadOnDemand: 1
+## LoadWith: Blizzard_TradeSkillUI
+
+DoubleWideProfession.lua
